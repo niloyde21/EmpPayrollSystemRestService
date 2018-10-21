@@ -1,0 +1,1 @@
+insert into empCredentials values(1, 'admin', 'admin123');
